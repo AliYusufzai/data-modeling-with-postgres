@@ -1,7 +1,7 @@
 
 
 <p align="center">
-![postgres](https://github.com/AliYusufzai/data-modeling-with-postgres/blob/main/images/postgresSQLlogo.png)
+  <img width="200" src="https://github.com/AliYusufzai/data-modeling-with-postgres/blob/main/images/postgresSQLlogo.png" alt="Postgres logo">
 </p>
 
 

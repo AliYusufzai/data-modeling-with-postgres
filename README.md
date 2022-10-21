@@ -1,4 +1,15 @@
+
+
+<p align="center">
 ![postgres](https://github.com/AliYusufzai/data-modeling-with-postgres/blob/main/images/postgresSQLlogo.png)
+</p>
+
+
+# Data Modeling ETL with PostgreSQL
+
+Udacity Nanodegree Course Project 1
+
+
 
 ## About The Project
 A startup called Sparkify wants to analyze the data they've been collecting on songs and user activity on their new music streaming application. The analytics team is particularly interested in understanding what songs users are listening to. Currently, they don't have an easy way to query their data, which resides in a directory of JSON logs on user activity on the application, as well as a directory with JSON meta-data on the songs in their application.
@@ -36,5 +47,9 @@ The Star Database Schema used for data modeling in this ETL pipeline. There is o
 
 An entity relationship diagram (ERD) of the data model is given below.
 
+<p align="center">
 ![erd](https://raw.githubusercontent.com/AliYusufzai/data-modeling-with-postgres/main/images/erd.png)
+</p>
+
+
 

@@ -2,13 +2,12 @@
 
 <p align="center">
   <img width="200" src="https://github.com/AliYusufzai/data-modeling-with-postgres/blob/main/images/postgresSQLlogo.png" alt="Postgres logo">
-</p>
 
 
 # Data Modeling ETL with PostgreSQL
 
 Udacity Nanodegree Course Project 1
-
+</p>
 
 
 ## About The Project
@@ -48,7 +47,7 @@ The Star Database Schema used for data modeling in this ETL pipeline. There is o
 An entity relationship diagram (ERD) of the data model is given below.
 
 <p align="center">
-![erd](https://raw.githubusercontent.com/AliYusufzai/data-modeling-with-postgres/main/images/erd.png)
+   <img width="200" src="[https://github.com/AliYusufzai/data-modeling-with-postgres/blob/main/images/postgresSQLlogo.png](https://raw.githubusercontent.com/AliYusufzai/data-modeling-with-postgres/main/images/erd.png)" alt="ERD">
 </p>
 
 
